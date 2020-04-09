@@ -1,0 +1,25 @@
+{
+  "name": "session-lab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Naomoreira/session-lab.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Naomoreira/session-lab/issues"
+  },
+  "homepage": "https://github.com/Naomoreira/session-lab#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-session": "^1.17.0",
+    "nodemon": "^2.0.3"
+  }
+}
